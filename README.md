@@ -2,7 +2,7 @@
 
 ## Buy annual tickets for Maccabi Tel Aviv with assistance
 
-This bot will send you a whatsApp message notifying you that it found consecutive seats in the exits you desire
+This bot will send you an email notifying you that it found consecutive seats in the exits you desire
 
 ### Usage
 1. Copy .env.default file to .env
