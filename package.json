@@ -1,0 +1,26 @@
+{
+  "name": "maccabi-seat-finder",
+  "version": "1.0.0",
+  "description": "Find Consecutive seats for Maccabi Tel Aviv 🏀",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "author": "Yaniv Fleischer",
+  "license": "None",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "checksum": "^0.1.1",
+    "config": "^1.30.0",
+    "dotenv": "^12.0.0",
+    "ms": "^2.1.3",
+    "nodemailer": "^6.8.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-import": "^2.12.0",
+    "nodemon": "^1.17.4"
+  }
+}
